@@ -1,0 +1,9 @@
+README
+
+To run the wikipedia search engine in a linux machine, execute the following commands:
+
+	* sh install.sh <path-to-wikipedia-dump>
+	* sh run.sh
+	* sh query.sh
+
+*************************************************************************************************************************************************************************
